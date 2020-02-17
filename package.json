@@ -8,8 +8,7 @@
     "build": "tsc -P tsconfig.json",
     "test": "jest --config jestconfig.json --coverage",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
-    "lint": "tslint -p tsconfig.json",
-    "precommit": "npm run format && npm run lint && npm test"
+    "lint": "tslint -p tsconfig.json"
   },
   "husky": {
     "hooks": {
