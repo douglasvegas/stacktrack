@@ -1,0 +1,2 @@
+{"/Users/sunxin/Github/stacktrack/src/index.ts": {"path":"/Users/sunxin/Github/stacktrack/src/index.ts","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":1,"column":null}},"1":{"start":{"line":2,"column":13},"end":{"line":2,"column":null}},"2":{"start":{"line":2,"column":45},"end":{"line":2,"column":50}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":2,"column":19},"end":{"line":2,"column":20}},"loc":{"start":{"line":2,"column":45},"end":{"line":2,"column":50}}}},"branchMap":{},"s":{"0":1,"1":1,"2":1},"f":{"0":1},"b":{}}
+}
