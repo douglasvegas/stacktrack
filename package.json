@@ -8,7 +8,8 @@
     "build": "tsc -P tsconfig.json",
     "test": "jest --config jestconfig.json --coverage",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
-    "lint": "tslint -p tsconfig.json"
+    "lint": "tslint -p tsconfig.json",
+    "codecov": "codecov"
   },
   "husky": {
     "hooks": {
@@ -29,6 +30,7 @@
   "dependencies": {
     "@types/jest": "^25.1.2",
     "@types/node": "^13.7.1",
+    "codecov": "^3.6.5",
     "husky": "^4.2.3",
     "jest": "^25.1.0",
     "prettier": "^1.19.1",
