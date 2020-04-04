@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1582030909361" clover="3.2.0">
-  <project timestamp="1582030909362" name="All files">
+<coverage generated="1582030931835" clover="3.2.0">
+  <project timestamp="1582030931835" name="All files">
     <metrics statements="30" coveredstatements="25" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="5" elements="39" coveredelements="32" complexity="0" loc="30" ncloc="30" packages="1" files="1" classes="1"/>
     <file name="index.ts" path="/Users/sunxin/Github/stacktrack/src/index.ts">
       <metrics statements="30" coveredstatements="25" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="5"/>
