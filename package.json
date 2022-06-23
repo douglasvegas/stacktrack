@@ -30,7 +30,7 @@
   "dependencies": {
     "@types/jest": "^25.1.2",
     "@types/node": "^13.7.1",
-    "codecov": "^3.6.5",
+    "codecov": "^3.8.3",
     "error-stack-parser": "^2.0.6",
     "fs": "0.0.1-security",
     "husky": "^4.2.3",
